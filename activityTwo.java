@@ -18,3 +18,6 @@ public class activityTwo {
         inp.close();
     }
 }
+
+// problem
+// create a flow chart and java porgram that accepts two-input integer and displays the product.
