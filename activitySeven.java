@@ -23,3 +23,6 @@ public class activitySeven {
         inp.close();
     }
 }
+
+// problem
+// create a flowchart and java program that takes inputs to compute the area of a polygon.
